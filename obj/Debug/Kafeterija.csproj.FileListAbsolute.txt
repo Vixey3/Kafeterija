@@ -1,0 +1,15 @@
+C:\Users\Joca\source\repos\RBPO\Kafeterija\bin\Debug\Kafeterija.exe.config
+C:\Users\Joca\source\repos\RBPO\Kafeterija\bin\Debug\Kafeterija.exe
+C:\Users\Joca\source\repos\RBPO\Kafeterija\bin\Debug\Kafeterija.pdb
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.csprojAssemblyReference.cache
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.frmPocetna.resources
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.Properties.Resources.resources
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.frmUnosAzuriranje.resources
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.csproj.GenerateResource.cache
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.csproj.CoreCompileInputs.cache
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.exe
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.pdb
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.frmKvalif.resources
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.frmPogledi.resources
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.frmUpiti.resources
+C:\Users\Joca\source\repos\RBPO\Kafeterija\obj\Debug\Kafeterija.frmMeni.resources
